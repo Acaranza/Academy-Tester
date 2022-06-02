@@ -1,0 +1,16 @@
+C:\Users\acaranza\source\repos\Ejercitacion3Academy\Ejercitacion3Academy\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\acaranza\source\repos\Ejercitacion3Academy\Ejercitacion3Academy\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\acaranza\source\repos\Ejercitacion3Academy\Ejercitacion3Academy\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\acaranza\source\repos\Ejercitacion3Academy\Ejercitacion3Academy\bin\Debug\Microsoft.TestPlatform.AdapterUtilities.dll
+C:\Users\acaranza\source\repos\Ejercitacion3Academy\Ejercitacion3Academy\bin\Debug\Ejercitacion3Academy.dll
+C:\Users\acaranza\source\repos\Ejercitacion3Academy\Ejercitacion3Academy\bin\Debug\Ejercitacion3Academy.pdb
+C:\Users\acaranza\source\repos\Ejercitacion3Academy\Ejercitacion3Academy\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\acaranza\source\repos\Ejercitacion3Academy\Ejercitacion3Academy\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\acaranza\source\repos\Ejercitacion3Academy\Ejercitacion3Academy\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\acaranza\source\repos\Ejercitacion3Academy\Ejercitacion3Academy\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\acaranza\source\repos\Ejercitacion3Academy\Ejercitacion3Academy\obj\Debug\Ejercitacion3Academy.csproj.AssemblyReference.cache
+C:\Users\acaranza\source\repos\Ejercitacion3Academy\Ejercitacion3Academy\obj\Debug\Ejercitacion3Academy.csproj.CoreCompileInputs.cache
+C:\Users\acaranza\source\repos\Ejercitacion3Academy\Ejercitacion3Academy\obj\Debug\Ejercitacion3Academy.csproj.CopyComplete
+C:\Users\acaranza\source\repos\Ejercitacion3Academy\Ejercitacion3Academy\obj\Debug\Ejercitacion3Academy.dll
+C:\Users\acaranza\source\repos\Ejercitacion3Academy\Ejercitacion3Academy\obj\Debug\Ejercitacion3Academy.pdb
+C:\Users\acaranza\source\repos\Ejercitacion3Academy\Ejercitacion3Academy\bin\Debug\WebDriver.dll
