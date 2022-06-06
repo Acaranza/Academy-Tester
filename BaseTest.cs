@@ -17,6 +17,7 @@ namespace Ejercitacion3Academy
         // métodos Initialize 
         [TestInitialize]
         public void Initialize() {
+
             driver = new ChromeDriver();
             driver.Navigate().GoToUrl("https://www.ultimateqa.com/automation/");
         

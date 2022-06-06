@@ -4,6 +4,7 @@ using OpenQA.Selenium.Chrome;
 using System;
 
 namespace Ejercitacion3Academy
+
 {
     [TestClass]
     public class UnitTest1
@@ -61,7 +62,6 @@ namespace Ejercitacion3Academy
         [TestCleanup]
         public void Cleanup()
         {
-
             driver.Quit();
         }
     }
